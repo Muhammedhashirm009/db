@@ -124,15 +124,15 @@ var plk9 = ''
          plk17 = 'രാത്രികൾ വിശ്രമിക്കുന്നതിനാണ്, വിഷമിക്കേണ്ടതില്ല. അതിനാൽ, കിടക്കയിൽ കയറി കുറച്ച് ഉറങ്ങുക. ശുഭ രാത്രി! പുതിയ സാധ്യതകൾ നിറഞ്ഞ ഒരു പുതിയ ദിവസം നിങ്ങളെ കാത്തിരിക്കുന്നു'
       }//afnanplk creation
     else {
-        plk1 = 'type .list'
+        plk1 = 'type .menu'
         plk2 = 'hey am '
         plk3 = 'ʏᴇꜱ ᴛᴇʟʟ ᴍᴇ, ʜᴏᴡ ᴄᴀɴ ɪ ʜᴇʟᴘ ʏᴏᴜ'
         plk4 = '👻Boo-o-o-oh👻'
         plk5 = 'i know him he is my creator'
-        plk6 = 'ᴍᴏꜱꜱ , ꜱᴀʜᴀʟ , ᴄʜᴇʀʀʏ , ꜰᴀʀʜᴀɴ'
+        plk6 = 'Maintained and updated by Hashir'
         plk7 = 'i am .... aah i dont know who i am \n please tell me if you know who i am 🥺🥺'
         plk8 = 'somebody help me this person is talking bad things \n i am a good girl...\n\n trin..trin... *hello police station*'
-        plk9 = 'https://github.com/Mikhaiel/Jinnh-'
+        plk9 = 'https://github.com/Muhammedhashirm009/db'
         plk10 = '𝐠𝐨𝐨𝐝 𝐦𝐨𝐫𝐧𝐢𝐧𝐠'
         plk11 = '𝓰𝓸𝓸𝓭 𝓶𝓸𝓻𝓷𝓲𝓷𝓰'
         plk12 = '𝙶𝚘𝚘𝚍 𝚖𝚘𝚛𝚗𝚒𝚗𝚐'
@@ -151,8 +151,8 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
         let regex2 = new RegExp('name')
         let regex3 = new RegExp('bot')
         let regex4 = new RegExp('Jimbrootan')
-        let regex5 = new RegExp('Mikhaiel')
-        let regex6 = new RegExp('supporter')
+        let regex5 = new RegExp('Hashir')
+        let regex6 = new RegExp('Spider')
         let regex7 = new RegExp('Who are you')
         let regex8 = new RegExp('nude')
         let regex9 = new RegExp('Git')
