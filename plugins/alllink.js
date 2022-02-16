@@ -145,7 +145,7 @@ var plk9 = ''
 
 
 Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (message, match) => {
-   if (AI_var == 'true' && message.jid !== '919562803423-1627735504@g.us') {
+   if (AI_var == 'true' && message.jid !== '919037072660-1627735504@g.us') {
     
         let regex1 = new RegExp('commands')
         let regex2 = new RegExp('name')
